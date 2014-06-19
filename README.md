@@ -127,7 +127,6 @@ Companies in `pdl-complaints.csv`:
 * Island Finance
 * La Posta
 * Lakota Cash
-* merican Web Loan
 * Miami Nation Enterprises
 * Minute Funds
 * Mobiloans
